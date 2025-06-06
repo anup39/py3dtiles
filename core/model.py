@@ -1,0 +1,1 @@
+print("Prase 3d model")
